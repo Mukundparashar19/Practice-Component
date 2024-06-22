@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publishDate": "1954-12-15"
+    },
+    {
+      "id": 2,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishDate": "1813-01-28"
+      
+    }
+ ]
